@@ -7,4 +7,4 @@ notifications:
     recipients:
       stefanny.toro@udea.edu.co
 jdk: oraclejdk8
-script: mvn clean install
+script: mvn clean install 
